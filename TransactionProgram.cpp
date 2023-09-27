@@ -55,4 +55,5 @@ int main(){
         cout << "\nEnter your choice:";
         cin >> choice;
     }
+    inOutCredit.close();
 }
